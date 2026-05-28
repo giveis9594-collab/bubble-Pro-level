@@ -1,0 +1,6 @@
+{
+  "name": "Bubble Shooter Mobile Game",
+  "description": "A fully featured, highly polished mobile-first Bubble Shooter game with physics-based dynamic shooting, levels, obstacles, power-ups, multiple puzzle modes, dynamic visual themes, offline support, Web Audio sound effects, and Ad simulation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
